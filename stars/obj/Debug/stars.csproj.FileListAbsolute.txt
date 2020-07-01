@@ -1,0 +1,10 @@
+D:\MyProjects\stars\bin\Debug\stars.exe.config
+D:\MyProjects\stars\bin\Debug\stars.exe
+D:\MyProjects\stars\bin\Debug\stars.pdb
+D:\MyProjects\stars\obj\Debug\stars.csprojAssemblyReference.cache
+D:\MyProjects\stars\obj\Debug\stars.Form1.resources
+D:\MyProjects\stars\obj\Debug\stars.Properties.Resources.resources
+D:\MyProjects\stars\obj\Debug\stars.csproj.GenerateResource.cache
+D:\MyProjects\stars\obj\Debug\stars.csproj.CoreCompileInputs.cache
+D:\MyProjects\stars\obj\Debug\stars.exe
+D:\MyProjects\stars\obj\Debug\stars.pdb
